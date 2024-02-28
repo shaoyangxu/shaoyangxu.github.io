@@ -1,21 +1,21 @@
 main:
 
   - title: "Exploring Multilingual Human Value Concepts in Large Language Models: Is Value Alignment Consistent, Transferable and Controllable across Languages?"
-    authors: Shaoyang Xu, Weilong Dong, Zishan Guo, Xinwei Wu, Deyi Xiong* (*Corresponding authors)
+    authors: "Shaoyang Xu, Weilong Dong, Zishan Guo, Xinwei Wu, Deyi Xiong*"
     conference_short: arxiv
     conference: pre-print, 2024.
     pdf: ./assets/files/multilingual_concept.pdf
     image: ./assets/img/multilingual_concept.png
 
   - title: "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?"
-    authors: Shaoyang Xu, Junzhuo Li, Deyi Xiong* (*Corresponding authors)
+    authors: "Shaoyang Xu, Junzhuo Li, Deyi Xiong*"
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
     pdf: https://aclanthology.org/2023.emnlp-main.226.pdf
     image: ./assets/img/LRP2.png
 
   - title: "Topic Segmentation via Discourse Structure Graph Network"
-    authors: Shaoyang Xu, Feng Jiang, Peifeng Li (*Corresponding authors)
+    authors: "Shaoyang Xu, Feng Jiang, Peifeng Li*"
     conference: JOURNAL OF CHINESE INFORMATION PROCESSING, 2021.
     pdf: ./assets/files/DSGN.pdf
     image: ./assets/img/DSGN.png

@@ -12,9 +12,8 @@ My research interests lie in multilingual and multicultural large language model
 
 ## News
 
-- **[Mar. 2024]** Our paper Multilingual Human Value Concepts was released.
-- **[Nov. 2023]** Our paper Language Representation Projection was accepted to EMNLP2023.
+- **[Mar. 2024]** Our paper [Multilingual Human Value Concepts](./assets/files/multilingual_concept.pdf) was released.
+- **[Nov. 2023]** Our paper [Language Representation Projection](https://aclanthology.org/2023.emnlp-main.226.pdf) was accepted to EMNLP2023.
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
