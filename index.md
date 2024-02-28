@@ -17,4 +17,4 @@ My research interests lie in multilingual and multicultural large language model
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
