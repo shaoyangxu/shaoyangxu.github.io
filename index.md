@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+ I am currently a second-year master student at [TJU-NLP](https://tjunlp-lab.github.io/), [Tianjin University](https://www.tju.edu.cn/), under the guidance of [Professor Deyi Xiong](https://dyxiong.github.io/).
 
-## Research Interests
+Prior to this, i completed my Bachelor's degree in Artificial Intelligence from [Soochow University](https://www.suda.edu.cn/), supervised by [Professor Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Postdoctoral Researcher FengJiang](https://fjiangai.github.io/).
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research interests lie in multilingual and multicultural large language models(LLMs), with a particular focus on understanding their multilingualism and enhancing their multilingual capabilities.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2024]** Our paper Multilingual Human Value Concepts was released.
+- **[Nov. 2024]** Our paper Language Representation Projection was accepted to EMNLP2023.
 
 {% include_relative _includes/publications.md %}
 
