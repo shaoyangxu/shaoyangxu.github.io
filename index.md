@@ -8,7 +8,7 @@ layout: homepage
 
 Prior to this, i completed my Bachelor's degree in Artificial Intelligence from [Soochow University](https://www.suda.edu.cn/), supervised by [Professor Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Postdoctor Feng Jiang](https://fjiangai.github.io/).
 
-My research interests lie in multilingual and multicultural large language models(LLMs), with a particular focus on understanding their multilingualism and enhancing their multilingual capabilities.
+My research interests lie in multilingual large language models(LLMs), with a particular focus on understanding their multilingualism and enhancing their multilingual capabilities.
 
 ## News
 
