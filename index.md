@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a first-year PhD student at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([github](https://github.com/iNLP-Lab)) @ [SUTD](https://www.sutd.edu.sg/istd/), leaded by [Prof. Wenxuan Zhang](https://isakzhang.github.io/). Prior to this, i completed my master supervised by [Prof. Deyi Xiong](https://dyxiong.github.io/), as well as my undergraduate under the guidance of [Prof. Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Associate Researcher Feng Jiang](https://fjiangai.github.io/).
+I am currently a first-year PhD student at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([github](https://github.com/iNLP-Lab)) @ [SUTD](https://www.sutd.edu.sg/istd/), leaded by [Prof. Wenxuan Zhang](https://isakzhang.github.io/). Prior to this, I completed my master supervised by [Prof. Deyi Xiong](https://dyxiong.github.io/), as well as my undergraduate under the guidance of [Prof. Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Associate Researcher Feng Jiang](https://fjiangai.github.io/).
 
 My research focuses on multilingual and multicultural Large Language Models (LLMs), aiming to enhance their inclusivity.
 
