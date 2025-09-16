@@ -19,11 +19,6 @@ main:
     conference: EMNLP 2024 Industry Track
     pdf: https://aclanthology.org/2024.emnlp-industry.110.pdf
     code: https://github.com/tjunlp-lab/FuxiTranyu
-  - title: "FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data"
-    authors: "Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Menglong Cui, Jiangcun Dui, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong*"
-    conference: EMNLP 2024 Industry Track
-    pdf: https://aclanthology.org/2024.emnlp-industry.110.pdf
-    code: https://github.com/tjunlp-lab/FuxiTranyu
   - title: "Exploring Multilingual Human Value Concepts in Large Language Models: Is Value Alignment Consistent, Transferable and Controllable across Languages?"
     authors: "Shaoyang Xu, Weilong Dong, Zishan Guo, Xinwei Wu, Deyi Xiong*"
     conference: EMNLP 2024 Findings
