@@ -3,17 +3,18 @@ layout: homepage
 ---
 
 ## About Me
+I am currently a first-year PhD student at [inclusive NLP (iNLP) Lab](https://github.com/iNLP-Lab) @ [SUTD](https://www.sutd.edu.sg/istd/), leaded by [Assistant Professor Wenxuan Zhang](https://isakzhang.github.io/). Prior to this, i completed my Master study supervised by [Professor Deyi Xiong](https://dyxiong.github.io/), as well as my Bachelor study under the guidance of [Professor Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Associate Researcher Feng Jiang](https://fjiangai.github.io/).
 
- I am currently a second-year master student at [TJU-NLP](https://tjunlp-lab.github.io/), [Tianjin University](https://www.tju.edu.cn/), under the guidance of [Professor Deyi Xiong](https://dyxiong.github.io/).
-
-Prior to this, i completed my Bachelor's degree in Artificial Intelligence from [Soochow University](https://www.suda.edu.cn/), supervised by [Professor Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Postdoctor Feng Jiang](https://fjiangai.github.io/).
-
-My research interests lie in multilingual large language models(LLMs), with a particular focus on understanding their multilingualism and enhancing their multilingual capabilities.
+My research focuses on multilingual and multicultural Large Language Models (LLMs), aiming to enhance their inclusivity.
 
 ## News
-
-- **[Mar. 2024]** Our paper [Multilingual Human Value Concepts](https://arxiv.org/abs/2402.18120) was released on arXiv.
-- **[Nov. 2023]** Our paper [Language Representation Projection](https://aclanthology.org/2023.emnlp-main.226.pdf) was accepted to EMNLP2023.
+- **[Aug. 2025]** One paper accepted by EMNLP 2025.
+- **[Jan. 2025]** One paper accepted by NAACL 2025.
+- **[Nov. 2024]** One paper accepted by COLING 2025.
+- **[Oct. 2024]** One paper accepted by EMNLP 2024 Industry Track.
+- **[Sep. 2024]** One paper accepted by EMNLP 2024 Findings.
+- **[May. 2024]** One paper accepted by ACL 2024 Findings.
+- **[Nov. 2023]** One paper accepted by EMNLP 2023.
 
 {% include_relative _includes/publications.md %}
 
