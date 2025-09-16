@@ -1,21 +1,50 @@
 main:
-
+  - title: "DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search"
+    authors: "Lei Yang, Shaoyang Xu, Jianxiang Peng, Shaolin Zhu, Deyi Xiong*"
+    conference: EMNLP 2025
+    pdf: https://arxiv.org/abs/2412.18811
+    code: https://github.com/YL-9/dcis
+  - title: "Self-Pluralising Culture Alignment for Large Language Models"
+    authors: "Shaoyang Xu, Yongqi Leng, Linhao Yu, Deyi Xiong*"
+    conference: NAACL 2025
+    pdf: https://aclanthology.org/2025.naacl-long.350.pdf
+    code: https://github.com/shaoyangxu/CultureSPA
+  - title: "CONTRANS: Weak-to-Strong Alignment Engineering via Concept Transplantation"
+    authors: "Weilong Dong, Xinwei Wu, Renren Jin, Shaoyang Xu, Deyi Xiong*"
+    conference: COLING 2025
+    pdf: https://aclanthology.org/2025.coling-main.279.pdf
+    code: https://github.com/willowdong/ConTrans
+  - title: "FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data"
+    authors: "Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Menglong Cui, Jiangcun Dui, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong*"
+    conference: EMNLP 2024 Industry Track
+    pdf: https://aclanthology.org/2024.emnlp-industry.110.pdf
+    code: https://github.com/tjunlp-lab/FuxiTranyu
+  - title: "FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data"
+    authors: "Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Menglong Cui, Jiangcun Dui, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong*"
+    conference: EMNLP 2024 Industry Track
+    pdf: https://aclanthology.org/2024.emnlp-industry.110.pdf
+    code: https://github.com/tjunlp-lab/FuxiTranyu
   - title: "Exploring Multilingual Human Value Concepts in Large Language Models: Is Value Alignment Consistent, Transferable and Controllable across Languages?"
     authors: "Shaoyang Xu, Weilong Dong, Zishan Guo, Xinwei Wu, Deyi Xiong*"
-    conference_short: arxiv
-    conference: preprint, 2024.
-    pdf: https://arxiv.org/abs/2402.18120
+    conference: EMNLP 2024 Findings
+    pdf: https://aclanthology.org/2024.findings-emnlp.96.pdf
+    code: https://github.com/shaoyangxu/Multilingual-Human-Value-Concepts
+  - title: "Mitigating Privacy Seesaw in Large Language Models: Augmented Privacy Neuron Editing via Activation Patching"
+    authors: "Xinwei Wu, Weilong Dong, Shaoyang Xu, Deyi Xiong*"
+    # conference_short: arxiv
+    conference: ACL 2024 Findings
+    pdf: https://aclanthology.org/2024.findings-acl.315.pdf
+    code: https://github.com/flamewei123/APNEAP-
   #  image: ./assets/img/multilingual_concept.png
-
   - title: "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?"
     authors: "Shaoyang Xu, Junzhuo Li, Deyi Xiong*"
-    conference_short: EMNLP
-    conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
+    # conference_short: EMNLP
+    conference: EMNLP 2023
     pdf: https://aclanthology.org/2023.emnlp-main.226.pdf
    # image: ./assets/img/LRP2.png
-
   - title: "Topic Segmentation via Discourse Structure Graph Network"
     authors: "Shaoyang Xu, Feng Jiang, Peifeng Li*"
     conference: JOURNAL OF CHINESE INFORMATION PROCESSING, 2021.
     pdf: ./assets/files/DSGN.pdf
+    code: https://github.com/shaoyangxu/DSG-SEG
    # image: ./assets/img/DSGN.png
