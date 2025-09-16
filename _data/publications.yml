@@ -5,17 +5,17 @@ main:
     conference_short: arxiv
     conference: preprint, 2024.
     pdf: https://arxiv.org/abs/2402.18120
-    image: ./assets/img/multilingual_concept.png
+  #  image: ./assets/img/multilingual_concept.png
 
   - title: "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?"
     authors: "Shaoyang Xu, Junzhuo Li, Deyi Xiong*"
     conference_short: EMNLP
     conference: Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2023.
     pdf: https://aclanthology.org/2023.emnlp-main.226.pdf
-    image: ./assets/img/LRP2.png
+   # image: ./assets/img/LRP2.png
 
   - title: "Topic Segmentation via Discourse Structure Graph Network"
     authors: "Shaoyang Xu, Feng Jiang, Peifeng Li*"
     conference: JOURNAL OF CHINESE INFORMATION PROCESSING, 2021.
     pdf: ./assets/files/DSGN.pdf
-    image: ./assets/img/DSGN.png
+   # image: ./assets/img/DSGN.png
