@@ -3,6 +3,7 @@ main:
     authors: "Shaoyang Xu, Wenxuan Zhang*"
     conference: pre-print
     pdf: https://arxiv.org/abs/2601.11227
+    code: https://github.com/iNLP-Lab/Multilingual-LoT-Diversity
   - title: "DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search"
     authors: "Lei Yang, Shaoyang Xu, Jianxiang Peng, Shaolin Zhu, Deyi Xiong*"
     conference: EMNLP 2025
