@@ -8,7 +8,7 @@ I am currently a first-year PhD student at [inclusive NLP (iNLP) Lab](https://is
 My research focuses on linguistic, cultural, and multimodal diversity in Large Language Models (LLMs), advancing inclusive AI.
 
 ## News
-- **[Feb. 2026]** Received AISG PhD Fellowship Award, [[link](https://www.linkedin.com/feed/update/urn:li:activity:7424395682104492032/)].
+- **[Feb. 2026]** Received AISG PhD Fellowship Award, [[link](https://www.linkedin.com/feed/update/urn:li:activity:7424395682104492032/) deleted due to confidentiality matters].
 - **[Sep. 2025]** Received SUTD PhD PGF Award, recommended by Prof. Zhang.
 <!-- - **[Aug. 2025]** One paper accepted by EMNLP 2025. -->
 <!-- - **[Jan. 2025]** One paper accepted by NAACL 2025. -->
