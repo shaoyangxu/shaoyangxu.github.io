@@ -1,4 +1,9 @@
 main:
+  - title: "Training Data Efficiency in Multimodal Process Reward Models"
+    authors: "Jinyuan Li, Chengsong Huang, Langlin Huang, Shaoyang Xu, Haolin Liu, Wenxuan Zhang, Jiaxin Huang"
+    conference: pre-print
+    pdf: https://arxiv.org/pdf/2602.04145
+    code: https://github.com/JinYuanLi0012/Balanced-Info-MPRM
   - title: "Language of Thought Shapes Output Diversity in Large Language Models"
     authors: "Shaoyang Xu, Wenxuan Zhang*"
     conference: pre-print
@@ -24,6 +29,11 @@ main:
     conference: EMNLP 2024 Industry Track
     pdf: https://aclanthology.org/2024.emnlp-industry.110.pdf
     code: https://github.com/tjunlp-lab/FuxiTranyu
+  - title: "Multilingual Large Language Models: A Systematic Survey"
+    authors: "Shaolin Zhu, Supryadi, Shaoyang Xu, Haoran Sun, Leiyu Pan, Menglong Cui, Jiangcun Du, Renren Jin, António Branco, Deyi Xiong*"
+    conference: pre-print
+    pdf: https://arxiv.org/pdf/2411.11072
+    code: https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers
   - title: "Exploring Multilingual Human Value Concepts in Large Language Models: Is Value Alignment Consistent, Transferable and Controllable across Languages?"
     authors: "Shaoyang Xu, Weilong Dong, Zishan Guo, Xinwei Wu, Deyi Xiong*"
     conference: EMNLP 2024 Findings
