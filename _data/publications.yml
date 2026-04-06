@@ -6,7 +6,7 @@ main:
     code: https://github.com/JinYuanLi0012/Balanced-Info-MPRM
   - title: "Language of Thought Shapes Output Diversity in Large Language Models"
     authors: "Shaoyang Xu, Wenxuan Zhang*"
-    conference: pre-print
+    conference: ACL 2026
     pdf: https://arxiv.org/abs/2601.11227
     code: https://github.com/iNLP-Lab/Multilingual-LoT-Diversity
   - title: "DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search"
