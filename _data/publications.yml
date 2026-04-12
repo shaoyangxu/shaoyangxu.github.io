@@ -1,4 +1,9 @@
 main:
+  - title: "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook"
+    authors: "Yi Feng, Chen Huang, Zhibo Man, Ryner Tan, Long P. Hoang, Shaoyang Xu, Wenxuan Zhang*"
+    conference: pre-print
+    pdf: https://arxiv.org/pdf/2602.13458
+    code: https://github.com/iNLP-Lab/MoltNet
   - title: "Training Data Efficiency in Multimodal Process Reward Models"
     authors: "Jinyuan Li, Chengsong Huang, Langlin Huang, Shaoyang Xu, Haolin Liu, Wenxuan Zhang, Jiaxin Huang"
     conference: pre-print
