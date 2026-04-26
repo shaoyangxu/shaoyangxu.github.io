@@ -2,10 +2,10 @@
 layout: homepage
 ---
 
-## About Me
-I am currently a first-year PhD student at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([github](https://github.com/iNLP-Lab)) @ [SUTD](https://www.sutd.edu.sg/istd/), led by [Prof. Wenxuan Zhang](https://isakzhang.github.io/). Prior to this, I completed my master's degree supervised by [Prof. Deyi Xiong](https://dyxiong.github.io/), as well as my undergraduate studies under the guidance of [Prof. Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Associate Researcher Feng Jiang](https://fjiangai.github.io/).
+## About
+A first-year PhD student at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([github](https://github.com/iNLP-Lab)) @ [SUTD](https://www.sutd.edu.sg/istd/), led by [Prof. Wenxuan Zhang](https://isakzhang.github.io/). Prior to this, completed master's degree supervised by [Prof. Deyi Xiong](https://dyxiong.github.io/), as well as undergraduate studies under the guidance of [Prof. Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Associate Researcher Feng Jiang](https://fjiangai.github.io/).
 
-My research focuses on linguistic and cultural diversity in Large Language Models (LLMs), advancing inclusive AI.
+Research focuses on linguistic and cultural diversity in Large Language Models (LLMs), advancing inclusive AI.
 
 ## News
 - **[Apr. 2026]** ACL 2026 Got [Language of Thought](https://arxiv.org/pdf/2601.11227).
