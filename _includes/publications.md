@@ -1,6 +1,6 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Projects</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Research</h2>
 <br> 
-<p>(* corresponding authors)</p>
+<p>(* indicates corresponding authors)</p>
 
 <div class="publications">
 <ol class="bibliography">
