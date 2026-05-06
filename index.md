@@ -5,11 +5,11 @@ layout: homepage
 ## About
 A first-year PhD student at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([github](https://github.com/iNLP-Lab)) @ [SUTD](https://www.sutd.edu.sg/istd/), led by [Prof. Wenxuan Zhang](https://isakzhang.github.io/). Prior to this, completed master's degree supervised by [Prof. Deyi Xiong](https://dyxiong.github.io/), as well as undergraduate studies under the guidance of [Prof. Peifeng Li](http://web.suda.edu.cn/pfli/list.htm) and [Associate Researcher Feng Jiang](https://fjiangai.github.io/).
 
-Research focuses on linguistic and cultural diversity in Large Language Models (LLMs), advancing inclusive AI.
+Research focuses on linguistic and cultural diversity in LLMs, advancing inclusive AI.
 
 ## News
 - **[Apr. 2026]** ACL 2026 Got [Language of Thought](https://arxiv.org/pdf/2601.11227).
-- **[Feb. 2026]** Received AISG PhD Fellowship Award, [[link](https://www.linkedin.com/feed/update/urn:li:activity:7424395682104492032/) deleted due to confidentiality matters].
+- **[Feb. 2026]** Received AISG PhD Fellowship Award.
 - **[Sep. 2025]** Received SUTD PhD PGF Award, recommended by Prof. Zhang.
 <!-- - **[Aug. 2025]** One paper accepted by EMNLP 2025. -->
 <!-- - **[Jan. 2025]** One paper accepted by NAACL 2025. -->
@@ -18,6 +18,10 @@ Research focuses on linguistic and cultural diversity in Large Language Models (
 <!-- - **[Sep. 2024]** One paper accepted by EMNLP 2024 Findings. -->
 <!-- - **[May. 2024]** One paper accepted by ACL 2024 Findings. -->
 <!-- - **[Nov. 2023]** One paper accepted by EMNLP 2023. -->
+
+## Fellowships
+- AISG PhD Fellow, 2026 (Inclusive AI, Linguistic Diversity, and Multicultural Fairness)
+- SUTD PhD President's Graduate Fellow, 2025
 
 {% include_relative _includes/publications.md %}
 
