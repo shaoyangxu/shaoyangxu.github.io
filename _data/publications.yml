@@ -6,7 +6,7 @@ main:
     code: https://github.com/iNLP-Lab/MoltNet
   - title: "Training Data Efficiency in Multimodal Process Reward Models"
     authors: "Jinyuan Li, Chengsong Huang, Langlin Huang, Shaoyang Xu, Haolin Liu, Wenxuan Zhang, Jiaxin Huang"
-    conference: pre-print
+    conference: ICML 2026
     pdf: https://arxiv.org/pdf/2602.04145
     code: https://github.com/JinYuanLi0012/Balanced-Info-MPRM
   - title: "Language of Thought Shapes Output Diversity in Large Language Models"
