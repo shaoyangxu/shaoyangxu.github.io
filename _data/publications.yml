@@ -1,0 +1,75 @@
+main:
+  - title: "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack"
+    authors: "Long P. Hoang, Hai V. Le, Shaoyang Xu, Wei Lu, Wenxuan Zhang*"
+    conference: pre-print
+    pdf: https://arxiv.org/abs/2606.05614
+    code: https://github.com/iNLP-Lab/Safety-Paradox
+  - title: "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems"
+    authors: "Shaoyang Xu, Jingshen Zhang, Long P Hoang, Jinyuan Li, Wenxuan Zhang*"
+    conference: pre-print
+    pdf: https://arxiv.org/abs/2606.05985
+    code: https://github.com/iNLP-Lab/MultiAgent-Diversity
+  - title: "Process Rewards with Learned Reliability"
+    authors: "Jinyuan Li, Langlin Huang, Chengsong Huang, Shaoyang Xu, Donghong Cai, Yuyi Yang, Wenxuan Zhang, Jiaxin Huang*"
+    conference: pre-print
+    pdf: https://arxiv.org/pdf/2605.15529
+    code: https://github.com/JinYuanLi0012/Beta-Binomial-PRM
+  - title: "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook"
+    authors: "Yi Feng, Chen Huang, Zhibo Man, Ryner Tan, Long P. Hoang, Shaoyang Xu, Wenxuan Zhang*"
+    conference: pre-print
+    pdf: https://arxiv.org/pdf/2602.13458
+    code: https://github.com/iNLP-Lab/MoltNet
+  - title: "Training Data Efficiency in Multimodal Process Reward Models"
+    authors: "Jinyuan Li, Chengsong Huang, Langlin Huang, Shaoyang Xu, Haolin Liu, Wenxuan Zhang, Jiaxin Huang*"
+    conference: ICML 2026
+    pdf: https://arxiv.org/pdf/2602.04145
+    code: https://github.com/JinYuanLi0012/Balanced-Info-MPRM
+  - title: "Language of Thought Shapes Output Diversity in Large Language Models"
+    authors: "Shaoyang Xu, Wenxuan Zhang*"
+    conference: ACL 2026
+    pdf: https://arxiv.org/abs/2601.11227
+    code: https://github.com/iNLP-Lab/Multilingual-LoT-Diversity
+  - title: "DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search"
+    authors: "Lei Yang, Shaoyang Xu, Jianxiang Peng, Shaolin Zhu, Deyi Xiong*"
+    conference: EMNLP 2025
+    pdf: https://arxiv.org/abs/2412.18811
+    code: https://github.com/YL-9/dcis
+  - title: "Self-Pluralising Culture Alignment for Large Language Models"
+    authors: "Shaoyang Xu, Yongqi Leng, Linhao Yu, Deyi Xiong*"
+    conference: NAACL 2025
+    pdf: https://aclanthology.org/2025.naacl-long.350.pdf
+    code: https://github.com/shaoyangxu/CultureSPA
+  - title: "CONTRANS: Weak-to-Strong Alignment Engineering via Concept Transplantation"
+    authors: "Weilong Dong, Xinwei Wu, Renren Jin, Shaoyang Xu, Deyi Xiong*"
+    conference: COLING 2025
+    pdf: https://aclanthology.org/2025.coling-main.279.pdf
+    code: https://github.com/willowdong/ConTrans
+  - title: "FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data"
+    authors: "Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Menglong Cui, Jiangcun Dui, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong*"
+    conference: EMNLP 2024 Industry Track
+    pdf: https://aclanthology.org/2024.emnlp-industry.110.pdf
+    code: https://github.com/tjunlp-lab/FuxiTranyu
+  - title: "Multilingual Large Language Models: A Systematic Survey"
+    authors: "Shaolin Zhu, Supryadi, Shaoyang Xu, Haoran Sun, Leiyu Pan, Menglong Cui, Jiangcun Du, Renren Jin, António Branco, Deyi Xiong*"
+    conference: pre-print
+    pdf: https://arxiv.org/pdf/2411.11072
+    code: https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers
+  - title: "Exploring Multilingual Human Value Concepts in Large Language Models: Is Value Alignment Consistent, Transferable and Controllable across Languages?"
+    authors: "Shaoyang Xu, Weilong Dong, Zishan Guo, Xinwei Wu, Deyi Xiong*"
+    conference: EMNLP 2024 Findings
+    pdf: https://aclanthology.org/2024.findings-emnlp.96.pdf
+    code: https://github.com/shaoyangxu/Multilingual-Human-Value-Concepts
+  - title: "Mitigating Privacy Seesaw in Large Language Models: Augmented Privacy Neuron Editing via Activation Patching"
+    authors: "Xinwei Wu, Weilong Dong, Shaoyang Xu, Deyi Xiong*"
+    conference: ACL 2024 Findings
+    pdf: https://aclanthology.org/2024.findings-acl.315.pdf
+    code: https://github.com/flamewei123/APNEAP-
+  - title: "Language Representation Projection: Can We Transfer Factual Knowledge across Languages in Multilingual Language Models?"
+    authors: "Shaoyang Xu, Junzhuo Li, Deyi Xiong*"
+    conference: EMNLP 2023
+    pdf: https://aclanthology.org/2023.emnlp-main.226.pdf
+  - title: "Topic Segmentation via Discourse Structure Graph Network"
+    authors: "Shaoyang Xu, Feng Jiang, Peifeng Li*"
+    conference: JOURNAL OF CHINESE INFORMATION PROCESSING, 2021.
+    pdf: ./assets/files/DSGN.pdf
+    code: https://github.com/shaoyangxu/DSG-SEG
