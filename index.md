@@ -18,5 +18,9 @@ Research focuses on linguistic and cultural diversity in Large Language Models.
 <!-- - **[May. 2024]** One paper accepted by ACL 2024 Findings. -->
 <!-- - **[Nov. 2023]** One paper accepted by EMNLP 2023. -->
 
+## Service
+
+Reviewer: ICLR-26, ACL-26, C3NLP-26, NeurIPS-26, EMNLP-26, AAAI-27
+
 {% include_relative _includes/publications.md %}
 
