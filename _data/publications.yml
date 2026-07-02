@@ -26,6 +26,7 @@ main:
     code: https://github.com/JinYuanLi0012/Balanced-Info-MPRM
   - title: "Can Multi-agent Help Disambiguation in Multi-domain Translation?"
     authors: "Zhibo Man, Shaoyang Xu, Yujie Zhang*, Yi Feng, Yuanmeng Chen, Yufeng Chen, Jinan Xu, Wenxuan Zhang*"
+    conference: ACL 2026 Findings
     pdf: https://aclanthology.org/2026.findings-acl.907.pdf
     code: https://github.com/Manowen/MACD
   - title: "Language of Thought Shapes Output Diversity in Large Language Models"
