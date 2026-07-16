@@ -7,6 +7,8 @@ PhD at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([gith
 
 Research focuses on linguistic and cultural diversity in Large Language Models.
 
+Worked/working with: [Lei Yang](https://yl-9.github.io/), [Jingshen Zhang](https://jasonzhang0702.github.io/).
+
 ## News
 - **[Jun. 2026]** [MultiAgent-Diveristy](https://arxiv.org/abs/2606.05985) Uploaded!
 - **[Apr. 2026]** [Language of Thought](https://arxiv.org/pdf/2601.11227) Accepted by ACL 2026!
