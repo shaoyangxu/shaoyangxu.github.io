@@ -20,7 +20,7 @@ PhD at [inclusive NLP (iNLP) Lab](https://isakzhang.github.io/group.html) ([gith
 ## Service
 Reviewer: ICLR-26, ACL-26, C3NLP-26, NeurIPS-26, EMNLP-26, NLPCC-26, COLM-26-WAB, [AACL-26-PlurVA-LLM](https://plurvallm2026.github.io/), AAAI-27
 
-Teaching Assistants: [SUTD-25Fall-50.040 Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html)
+Teaching Assistant: [SUTD-25Fall-50.040 Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html)
 
 {% include_relative _includes/publications.md %}
 
