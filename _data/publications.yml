@@ -1,19 +1,19 @@
 main:
-  - title: "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack"
-    authors: "Long P. Hoang, Hai V. Le, Shaoyang Xu, Wei Lu, Wenxuan Zhang*"
-    conference: pre-print-26
-    pdf: https://arxiv.org/abs/2606.05614
-    code: https://github.com/iNLP-Lab/Safety-Paradox
-  - title: "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems"
-    authors: "Shaoyang Xu, Jingshen Zhang, Long P Hoang, Jinyuan Li, Wenxuan Zhang*"
-    conference: pre-print-26
-    pdf: https://arxiv.org/abs/2606.05985
-    code: https://github.com/iNLP-Lab/MultiAgent-Diversity
   - title: "Process Rewards with Learned Reliability"
     authors: "Jinyuan Li, Langlin Huang, Chengsong Huang, Shaoyang Xu, Donghong Cai, Yuyi Yang, Wenxuan Zhang, Jiaxin Huang*"
     conference: pre-print-26
     pdf: https://arxiv.org/pdf/2605.15529
     code: https://github.com/JinYuanLi0012/Beta-Binomial-PRM
+  - title: "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack"
+    authors: "Long P. Hoang, Hai V. Le, Shaoyang Xu, Wei Lu, Wenxuan Zhang*"
+    conference: EMNLP 2026
+    pdf: https://arxiv.org/abs/2606.05614
+    code: https://github.com/iNLP-Lab/Safety-Paradox
+  - title: "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems"
+    authors: "Shaoyang Xu, Jingshen Zhang, Long P Hoang, Jinyuan Li, Wenxuan Zhang*"
+    conference: EMNLP 2026 Findings
+    pdf: https://arxiv.org/abs/2606.05985
+    code: https://github.com/iNLP-Lab/MultiAgent-Diversity
   - title: "MoltNet: Understanding Social Behavior of AI Agents in the Agent-Native MoltBook"
     authors: "Yi Feng, Chen Huang, Zhibo Man, Ryner Tan, Long P. Hoang, Shaoyang Xu, Wenxuan Zhang*"
     conference: COLM 2026
