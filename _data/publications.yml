@@ -4,6 +4,11 @@ main:
     conference: pre-print-26
     pdf: https://arxiv.org/pdf/2605.15529
     code: https://github.com/JinYuanLi0012/Beta-Binomial-PRM
+  - title: "Aligned but Flattened: Analyzing the Trade-off between Cultural Alignment and Diversity in LLMs"
+    authors: "Jingshen Zhang, Shaoyang Xu, Wenxuan Zhang*"
+    conference: EMNLP 2026 Findings
+    pdf: https://arxiv.org/pdf/2609.00565
+    code: https://github.com/aligned-but-flattened/aligned-flattened
   - title: "Safety Paradox: How Enhanced Safety Awareness Leaves LLMs Vulnerable to Posterior Attack"
     authors: "Long P. Hoang, Hai V. Le, Shaoyang Xu, Wei Lu, Wenxuan Zhang*"
     conference: EMNLP 2026
