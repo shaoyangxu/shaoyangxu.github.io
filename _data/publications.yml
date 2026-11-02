@@ -1,4 +1,9 @@
 main:
+  - title: "How Does Post-Training Shape LLM Value Preferences?"
+    authors: "Yang Liu, Shaoyang Xu, Masahiro Kaneko, Chengzhi Zhong, Wenxuan Zhang, Chenhui Chu"
+    conference: pre-print-26
+    pdf: https://arxiv.org/pdf/2610.33371
+    code: https://github.com/ku-nlp/llm-value-preferences
   - title: "Process Rewards with Learned Reliability"
     authors: "Jinyuan Li, Langlin Huang, Chengsong Huang, Shaoyang Xu, Donghong Cai, Yuyi Yang, Wenxuan Zhang, Jiaxin Huang*"
     conference: pre-print-26
